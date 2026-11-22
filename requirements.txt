@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+statsmodels
+matplotlib
+ipython
+ipykernel
+nbformat
+jinja2
+traitlets

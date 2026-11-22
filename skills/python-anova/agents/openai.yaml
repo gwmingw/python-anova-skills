@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python ANOVA"
+  short_description: "Run ANOVA and deliver a completed Jupyter notebook"
+  default_prompt: "Use $python-anova on this dataset. Confirm the proposed ANOVA model with me before fitting, then save the results in an executed Jupyter notebook."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "ANOVA Table Format"
+  short_description: "Format ANOVA results for notebooks and report tables"
+  default_prompt: "Use $anova-table-format to present these ANOVA results as a notebook table and a report image."

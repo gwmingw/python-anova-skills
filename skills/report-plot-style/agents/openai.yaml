@@ -1,0 +1,7 @@
+interface:
+  display_name: "Report Plot Style"
+  short_description: "Consistent Python figures in your report style"
+  default_prompt: "Use $report-plot-style to create a Python figure in my established report style."
+
+policy:
+  allow_implicit_invocation: true
