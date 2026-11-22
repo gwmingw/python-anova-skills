@@ -14,7 +14,7 @@ CSV 데이터를 입력받아 분산분석이 실행된 Jupyter 노트북을 만
 
 [샘플 CSV](examples/balanced_two_way.csv)와 분석 결과가 담긴 [실행 노트북](examples/balanced_two_way_anova.ipynb)을 함께 제공합니다.
 
-[Codex에서 스킬 사용 데모 영상](https://www.youtube.com/watch?v=41CK9Aaxyt0)
+[스킬 사용 데모 영상](https://www.youtube.com/watch?v=41CK9Aaxyt0)
 
 ## Codex에서 사용
 
